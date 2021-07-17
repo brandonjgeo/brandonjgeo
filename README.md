@@ -6,7 +6,7 @@
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
 - 🛠 I support & volunteer with: **Humanitarian OpenStreetMap**
 - 🌱 Learning: **REST, ArcGIS JavaScript API**
-- 🎓 Studying MSGISci at CSULB
+- 🎓 Studying MSGISci at <a href="https://www.csulb.edu"/>CSULB</a>
 
 ## 🌎 Contact
 - 🖇 Connect with me on <a href="https://www.linkedin.com/in/brandonjgeo/">LinkedIn</a>
