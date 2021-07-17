@@ -7,4 +7,3 @@
 - <a href="https://medium.com/@brandonjgeo">Blog</a>
 - <a href="https://linkedin.com/in/brandonjgeo">Linkedin</a>
 
-
