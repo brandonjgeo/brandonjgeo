@@ -7,11 +7,11 @@
 
 #### I'm a Geospatial Developer based in California.
 - ⚙️ I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
-- 🌍 I support and volunteer with: **Humanitarian OpenStreetMap, OpenStreetMap**
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 🌍 I support & volunteer with: **Humanitarian OpenStreetMap, OpenStreetMap**
+- 🌱 Learning: **Open Source, React, CS Algorithms**
 #### Find me around the web 🌎:
-- 💼 Connect on <a href="https://www.linkedin.com/in/brandonjgeo/">LinkedIn</a>
-- 🎧 Listen on <a href="https://open.spotify.com/user/brandonjgeo">Spotify</a>
-- 🐦 Tweet on <a href="https://twitter.com/brandonjgeo/">Twitter</a>
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/brandonjgeo/">LinkedIn</a>
+- 🎧 Listen along with me on <a href="https://open.spotify.com/user/brandonjgeo">Spotify</a>
+- 🐦 Tweet me on <a href="https://twitter.com/brandonjgeo/">Twitter</a>
 
 
