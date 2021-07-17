@@ -4,7 +4,7 @@
 
 ## 🛰 About
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
-- 🛠 I support & volunteer with: **Humanitarian OpenStreetMap, @OSGeo**
+- 🛠 I support & volunteer with: **Humanitarian OpenStreetMap**
 - 🌱 Learning: **REST, ArcGIS JavaScript API**
 - 🎓 Studying MSGISci at CSULB
 
