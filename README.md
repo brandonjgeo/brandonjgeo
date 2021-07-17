@@ -2,10 +2,10 @@
 
 #### I'm a Geospatial Developer based in California.
 
-## ⚡️ About
+## 🛰 About
 - 🛠 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
 - 🗺 I support & volunteer with: **Humanitarian OpenStreetMap**
-- 📖 Learning: **REST, ArcGIS JavaScript API**
+- 🌱 Learning: **REST, ArcGIS JavaScript API**
 - 🎓 Studying MSGISci at CSULB
 
 ## 🌎 Contact
