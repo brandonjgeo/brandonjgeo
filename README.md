@@ -8,7 +8,7 @@
 #### I'm a Geospatial Developer based in California.
 - ⚙️ I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
 - 🌍 I support & volunteer with: **Humanitarian OpenStreetMap, OpenStreetMap**
-- 🌱 Learning: **Open Source, React, CS Algorithms**
+- 🌱 Learning: **ArcGIS JavaScript API**
 #### Find me around the web 🌎:
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/brandonjgeo/">LinkedIn</a>
 - 🎧 Listen along with me on <a href="https://open.spotify.com/user/brandonjgeo">Spotify</a>
