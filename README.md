@@ -3,7 +3,7 @@
 #### I'm a Geospatial Developer based in California.
 
 ## 🛰 About
-- 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.png`
+- 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.xml`, `.shp`, `.dbf`, `.tiff`, `.jpg`, `.png`
 - 🛠 I support & volunteer at <a href="https://www.hotosm.org"/>Humanitarian OpenStreetMap</a>
 - 🌱 Learning: **REST, ArcGIS JavaScript API**
 - 🎓 Studied MSGISci at <a href="https://www.csulb.edu"/>CSULB</a>
