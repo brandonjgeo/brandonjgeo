@@ -1,6 +1,6 @@
 ## Hi, I'm Brandon 👋
 
-#### I'm a Geospatial Developer based in California.
+#### I'm a data scientist based in California.
 
 ## 🛰 About
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.xml`, `.shp`, `.dbf`, `.tiff`, `.jpg`, `.png`
