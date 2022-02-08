@@ -6,7 +6,7 @@
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.xml`, `.shp`, `.dbf`, `.tiff`, `.jpg`, `.png`
 - 🛠 I support & volunteer at <a href="https://www.hotosm.org"/>Humanitarian OpenStreetMap</a>
 - 🌱 Learning: **REST, ArcGIS JavaScript API**
-- 🎓 Studied GIS at <a href="https://www.csulb.edu"/>CSULB</a> and <a href="https://www.csus.edu"/>CSUS</a>
+- 🎓 Studied GIS at <a href="https://www.csus.edu"/>CSUS</a> and <a href="https://www.csulb.edu"/>CSULB</a>
 
 ## 🌎 Contact
 - 🚀 See my latest research on <a href="https://www.researchgate.net/profile/Brandon-George">ResearchGate</a>
