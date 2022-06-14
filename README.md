@@ -1,6 +1,6 @@
 ## Hi, I'm Brandon 👋
 
-#### I'm a geospatial scientist with a passion for nature. I build bridges between information and understanding. 🌉
+#### I'm a geospatial scientist with a passion for nature. I build bridges between information and understanding.
 
 ## 🛰 About
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.xml`, `.shp`, `.dbf`, `.tiff`, `.jpg`, `.png`
