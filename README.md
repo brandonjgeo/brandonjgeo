@@ -4,7 +4,7 @@
 
 ## 🛰 About
 - 🧰 I use daily: `.py`, `.js`,  `.sql`, `.html`, `.css`, `.svg`, `.xml`, `.shp`, `.dbf`, `.tiff`, `.jpg`, `.png`
-- 🛠 I support & volunteered at <a href="https://www.hotosm.org" target="blank">Humanitarian OpenStreetMap</a>
+- 🛠 I support & volunteer at <a href="https://www.hotosm.org" target="blank">Humanitarian OpenStreetMap</a> and <a href="https://www.giscorps.org" target="blank">GIS Corps</a>
 - 🌱 Learning: **ArcGIS REST API, ArcGIS JavaScript API, Power BI, Power Apps, and Power Automate**
 - 🎓 Alum of <a href="https://www.csus.edu" target="blank">CSUS</a>, <a href="https://www.csulb.edu" target="blank">CSULB</a>, and <a href="https://www.caloes.ca.gov" target="blank">Cal OES</a>
 
